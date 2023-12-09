@@ -1,3 +1,7 @@
+# Nama: Muhammad Figo Razzan Fadillah
+# NRP: 15-2022-064
+# Kelas: CC
+
 import pandas as pd
 
 data = {'Nama': ['John', 'Jane', 'Bob', 'Alice'],
